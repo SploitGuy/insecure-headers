@@ -1,5 +1,5 @@
 # insecure-headers
-Tool for testing for insecure headers
+Tool for testing insecure headers
 
 # How to use this script
 For this recipe, you will need a list of URLs that you want to test for insecure headers.Save
